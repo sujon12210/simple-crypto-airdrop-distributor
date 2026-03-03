@@ -1,0 +1,8 @@
+{
+  "name": "simple-crypto-airdrop-distributor",
+  "version": "1.0.0",
+  "description": "ERC20 Token Airdrop Distribution Repository",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
